@@ -14,10 +14,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/estevaojpbf/estevaojpbf/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Estatísticas</h2>
 
 ###
